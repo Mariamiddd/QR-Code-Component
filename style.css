@@ -1,0 +1,35 @@
+body {
+    background-color:  #F2F2F2;
+    font-family: 'outfit', sans-serif;
+} 
+.container {
+    width: 290px;
+    background-color: white;
+    padding: 16px;
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.qremage {
+border-radius: 10px;
+width: 100%;
+}
+
+h1 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28px;
+    color: #1F314F;
+    text-align: center;
+}
+p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.1875px;
+    color: #7D889E;   
+}
